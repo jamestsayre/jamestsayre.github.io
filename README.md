@@ -1,2 +1,2 @@
-# jamestsayre.github.io
-Diving into data
+# James Sayre
+Diving into data!
